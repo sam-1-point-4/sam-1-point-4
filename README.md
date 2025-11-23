@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a master's student of Business Intelligence at HWR Berlin with a master's thesis in efficient RAG systems.<br>I'm currently working on topics and projects around NLP, GenAI, RAG and python based web depoyment
 
-![Website Portfolio](https://img.shields.io/badge/Website%20Portfolio%20-%20%23FF8DA1?link=anishsampaul.xyz)
+[![Website Portfolio](https://img.shields.io/badge/Website%20Portfolio%20-%20%23FF8DA1?link=anishsampaul.xyz)](anishsampaul.xyz)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-sam-paul/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anishsampaul@gmail.com) 
